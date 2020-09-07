@@ -1,0 +1,54 @@
+{
+  "books": [
+    {
+      "id": 1,
+      "isbn": "978-1-940981502",
+      "title": "How JavaScript Works",
+      "author": "Douglas Crockford",
+      "published": "2018-10-18T00:00:00.000Z",
+      "publisher": "Virgule-Solidus",
+      "pages": 279,
+      "description": "Douglas Crockford starts by looking at the fundamentals: names, numbers, booleans, characters, and bottom values. JavaScript’s number type is shown to be faulty and limiting, but then Crockford shows how to repair those problems. He then moves on to data structures and functions, exploring the underlying mechanisms and then uses higher order functions to achieve class-free object oriented programming. The book also looks at eventual programming, testing, and purity, all the while looking at the requirements of The Next Language. Most of our languages are deeply rooted in the paradigm that produced FORTRAN. Crockford attacks those roots, liberating us to consider the next paradigm.He also presents a strawman language and develops a complete transpiler to implement it. The book is deep, dense, full of code, and has moments when it is intentionally funny."
+    },
+    {
+      "id": 2,
+      "isbn": "978-0596517748",
+      "title": "JavaScript: The Good Parts",
+      "author": "Douglas Crockford ",
+      "published": "2008-05-01T00:00:00.000Z",
+      "publisher": "O'Reilly Media",
+      "pages": 176,
+      "description": "Most programming languages contain good and bad parts, but JavaScript has more than its share of the bad, having been developed and released in a hurry before it could be refined. This authoritative book scrapes away these bad features to reveal a subset of JavaScript that's more reliable, readable, and maintainable than the language as a whole-a subset you can use to create truly extensible and efficient code. Considered the JavaScript expert by many people in the development community, author Douglas Crockford identifies the abundance of good ideas that make JavaScript an outstanding object-oriented programming language-ideas such as functions, loose typing, dynamic objects, and an expressive object literal notation. Unfortunately, these good ideas are mixed in with bad and downright awful ideas, like a programming model based on global variables. When Java applets failed, JavaScript became the language of the Web by default, making its popularity almost completely independent of its qualities as a programming language. In JavaScript: The Good Parts, Crockford finally digs through the steaming pile of good intentions and blunders to give you a detailed look at all the genuinely elegant parts of JavaScript, including: Syntax Objects Functions Inheritance Arrays Regular expressions Methods Style Beautiful features The real beauty? As you move ahead with the subset of JavaScript that this book presents, you'll also sidestep the need to unlearn all the bad parts. Of course, if you want to find out more about the bad parts and how to use them badly, simply consult any other JavaScript book. With JavaScript: The Good Parts, you'll discover a beautiful, elegant, lightweight and highly expressive language that lets you create effective code, whether you're managing object libraries or just trying to get Ajax to run fast. If you develop sites or applications for the Web, this book is an absolute must."
+    },
+    {
+      "id": 3,
+      "isbn": "978-1981672349",
+      "title": "Functional-Light JavaScript",
+      "author": "Kyle Simpson",
+      "published": "2017-11-01T00:00:00.000Z",
+      "publisher": "CreateSpace Independent Publishing Platform",
+      "pages": 388,
+      "description": "Functional-Light JavaScript is a balanced, pragmatic exploration of Functional Programming in JavaScript.Functional Programming (FP) is an incredibly powerful paradigm for structuring code that yields more robust, verifiable, and readable programs. If you've ever tried to learn FP but struggled with terms like monad, mathematical concepts like category theory, or symbols like (lambda), you're not alone.Functional-Light programming distills the most vital aspects of FP—function purity, value immutability, composition, and more!—down to approachable JavaScript patterns. Rather than the all-or-nothing dogmatism often encountered in FP, this book teaches you how to improve your programs line by line."
+    },
+    {
+      "id": 4,
+      "isbn": "978-0143122067",
+      "title": "Civilization: The West and the Rest",
+      "author": "Niall Ferguson",
+      "published": "2012-10-30T00:00:00.000Z",
+      "publisher": "Penguin Books",
+      "pages": 432,
+      "description": "Western civilization’s rise to global dominance is the single most important historical phenomenon of the past five centuries.How did the West overtake its Eastern rivals? And has the zenith of Western power now passed? Acclaimed historian Niall Ferguson argues that beginning in the fifteenth century, the West developed six powerful new concepts, or killer applications—competition, science, the rule of law, modern medicine, consumerism, and the work ethic—that the Rest lacked, allowing it to surge past all other competitors.Yet now, Ferguson shows how the Rest have downloaded the killer apps the West once monopolized, while the West has literally lost faith in itself. Chronicling the rise and fall of empires alongside clashes (and fusions) of civilizations, Civilization: The West and the Rest recasts world history with force and wit. Boldly argued and teeming with memorable characters, this is Ferguson at his very best."
+    },
+    {
+      "id": 5,
+      "isbn": "978-0735222939",
+      "title": "The Square and the Tower",
+      "author": "Niall Ferguson",
+      "published": "2017-10-05T00:00:00.000Z",
+      "publisher": "Penguin",
+      "pages": 532,
+      "description": "The twenty-first century has been hailed as the Networked Age. But in The Square and the Tower Niall Ferguson argues that social networks are nothing new. From the printers and preachers who made the Reformation to the freemasons who led the American Revolution, it was the networkers who disrupted the old order of popes and kings. Far from being novel, our era is the Second Networked Age, with the computer in the role of the printing press. Once we understand this, both the past, and the future, start to look very different indeed."
+    }
+  ]
+}
